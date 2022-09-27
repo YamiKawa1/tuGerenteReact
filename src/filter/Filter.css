@@ -1,0 +1,14 @@
+.searchBar{
+    background-color: rgba(250, 152, 154, 0.5);
+    padding: 0 10px;
+    font-size: 12px;
+}
+.filterOption div {
+    margin-top: 20px;
+
+}
+
+.filterOption input:checked{
+    background-color: rgba(250, 152, 154, 1);
+    border: none;
+}

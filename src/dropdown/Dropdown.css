@@ -1,0 +1,21 @@
+.dropdown {
+    display: flex;
+}
+
+.dropdown button {
+    width: 50vw;
+}
+.dropdown ul {
+    max-height: 33vh;
+    overflow:scroll
+}
+
+.dropdown li {
+    width: 50vw;
+}
+
+.dropdown li span {
+    width: 100%;
+    font-size: 9px;
+    word-wrap: break-word;
+}
